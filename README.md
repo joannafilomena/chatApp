@@ -1,2 +1,2 @@
 # chatApp
-Project in Webflow
+Project in Webflow - based on my frontend skills
